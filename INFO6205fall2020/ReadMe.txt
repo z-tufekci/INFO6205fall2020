@@ -8,7 +8,7 @@ INFO6205fall2020/INFO6205fall2020/src/edu/neu/coe/info6205/union_find/UF_HWQUPC_
 
 INFO6205fall2020/INFO6205fall2020/ZeynepTufekci_Assign03.pdf [Report]
 
-*****************************************************************************************
+------------------------------------------------------------------------------------------
 
 About Assignment2 files:
 
