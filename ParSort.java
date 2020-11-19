@@ -11,7 +11,7 @@ import java.util.concurrent.ForkJoinPool;
 class ParSort {
 
     public static int cutoff = 1000;
-    public static int threadCount = 2;
+    public static int threadCount = 100;
 	public static ForkJoinPool myPool = new ForkJoinPool(threadCount);
 
 
